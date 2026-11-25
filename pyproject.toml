@@ -1,7 +1,7 @@
 [project]
 name = "ai-insurance-claims-processing-system"
 version = "0.1.0"
-description = "Add your description here"
+description = "An AI-powered insurance claims processing system built with Python, FastAPI, and Large Language Models."
 readme = "README.md"
 authors = [
     { name = "Thubalethu Njapha", email = "thubzthubz@gmail.com" }
